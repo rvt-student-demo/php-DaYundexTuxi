@@ -4,6 +4,6 @@
 <body>
     <?php include "inc/navigation.php";?>
 
-    <p>Tas ir galvenā lapa.</p>
+    <p>Šeit būs informācija par mani.</p>
 </body>
-</html>l
+</html>

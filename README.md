@@ -1,6 +1,6 @@
 # php-codespace
 ### Run dev server with command: 
-- php -S localhost:8080 index.php
+- php -S localhost:8080
 
 ### Exercises for Basic PHP Syntax Practice
 
